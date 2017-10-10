@@ -1,0 +1,8 @@
+{
+    "smtpServer": "smtp.sendgrid.net",
+    "smtpUser": "x",
+    "smtpPassword": "x",
+    "sendTo": "",
+    "sendFrom": "x",
+    "subject": "My subject"
+  }
